@@ -1,3 +1,6 @@
+![Rohit Topagi Banner](./github-banner.svg)
+
+
 # Hi there, I'm Rohit Topagi 👋
 
 <p align="left">

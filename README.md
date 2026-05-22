@@ -132,10 +132,9 @@ A responsive weather application delivering real-time weather data for any city 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohittopagi2809&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohittopagi2809&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohittopagi2809&theme=default&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohittopagi2809&theme=default)
 
 ---
 

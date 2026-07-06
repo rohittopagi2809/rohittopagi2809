@@ -71,8 +71,6 @@ A full-stack e-commerce platform with 15+ RESTful APIs covering product manageme
 - 🔒 BCrypt password encryption & global exception handling
 - 🌐 Full React.js frontend consuming backend APIs
 
-> 🔨 *Work in Progress — actively being built*
-
 ---
 
 #### 📚 Library Management System
@@ -98,8 +96,6 @@ A responsive weather application delivering real-time weather data for any city 
 - 🔍 City-based search with dynamic UI rendering
 - ⚛️ Built using React Hooks and component-based architecture
 - 📱 Fully responsive design
-
-> 🔨 *Work in Progress — actively being built*
 
 ---
 
